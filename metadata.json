@@ -1,0 +1,8 @@
+{
+  "name": "Kishori\u0027s  newwww",
+  "description": "Website for Kishori\u0027s, a 100% pure-vegetarian dining space in Karnal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
